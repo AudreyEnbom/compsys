@@ -1,0 +1,7 @@
+Dim shoNum1, shoNum2, shoNum3 As Short
+  shoNum1 = 18
+  shoNum2 = 16
+
+  Do
+      shoNum1 += shoNum2
+  Loop Until shoNum1 = shoNum2
